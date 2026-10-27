@@ -3,3 +3,6 @@ main = "_worker.js"
 compatibility_date = "2024-04-28"
 usage_model = "bundled"
 workers_dev = true
+compatibility_flags = ["nodejs_compat"]
+# 建议配套一个比较新的兼容日期
+compatibility_date = "2026-10-01"
